@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/for_all_button</item>
+    </style>
+
+    <style name="for_all_button" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_drawable</item>
+    </style>
+
+</resources>
